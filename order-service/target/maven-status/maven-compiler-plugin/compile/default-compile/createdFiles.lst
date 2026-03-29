@@ -1,0 +1,3 @@
+com\ecommerce\order\OrderServiceApplication.class
+com\ecommerce\order\client\InventoryClient.class
+com\ecommerce\order\controller\OrderController.class
